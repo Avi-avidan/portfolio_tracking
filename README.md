@@ -12,4 +12,4 @@ you can use the following formats (somewhat loosly) in order to -
 
 TODO: add sell/close position at price and update equity/pnl accordingly.
 
-![plot example](pngs/bh_pnl_2021-04-24.png)
+![plot example](pngs/bh_pnl_2021-04-29.png)
